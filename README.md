@@ -8,7 +8,7 @@
 # Hey, I'm Nikhil 👋
 **Full-Stack Developer & B.Tech IT student** building end-to-end web applications, backend systems and applied ML tools.
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/nikhil-sajan-350795336/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nikhilsajann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </td>
