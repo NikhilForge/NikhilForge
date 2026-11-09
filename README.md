@@ -52,10 +52,6 @@
 | [**CampusFind**](https://github.com/NikhilForge/CampusFind) | Campus lost and found platform with item reports, auto-matching, in-app messaging and notifications | Flask, SQLite, JavaScript |
 | [**Campus Lib**](https://github.com/NikhilForge/campus-lib) | Library management system with student and admin portals, borrowing workflow and recommendations | HTML, CSS, JavaScript |
 
-## 🕒 Recent activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 📫 Let's connect
 Open to internships, hackathons and collaborations on web, backend and AI projects.
 [LinkedIn](https://www.linkedin.com/in/nikhil-sajan-350795336/) · nikhilsajann@gmail.com
