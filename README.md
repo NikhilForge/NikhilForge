@@ -8,7 +8,7 @@
 # Hey, I'm Nikhil 👋
 **Full-Stack Developer & B.Tech IT student** building end-to-end web applications, backend systems and applied ML tools.
 
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/nikhil-sajan-350795336/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nikhil-sajan-350795336/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nikhilsajann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </td>
@@ -52,11 +52,10 @@
 | [**CampusFind**](https://github.com/NikhilForge/CampusFind) | Campus lost and found platform with item reports, auto-matching, in-app messaging and notifications | Flask, SQLite, JavaScript |
 | [**Campus Lib**](https://github.com/NikhilForge/campus-lib) | Library management system with student and admin portals, borrowing workflow and recommendations | HTML, CSS, JavaScript |
 
-## 📊 GitHub stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NikhilForge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilForge&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
+## 🕒 Recent activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 📫 Let's connect
-Open to internships, hackathons and collaborations on web, backend and AI projects. Email me at **nikhilsajann@gmail.com**.
+Open to internships, hackathons and collaborations on web, backend and AI projects.
+[LinkedIn](https://www.linkedin.com/in/nikhil-sajan-350795336/) · nikhilsajann@gmail.com
