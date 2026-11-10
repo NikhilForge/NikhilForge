@@ -6,43 +6,47 @@
 <a href="mailto:nikhilsajann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br clear="all"/>
 
-## ⚡ Active processes
-- 🌱 Architecting RESTful backends and full-stack apps with Node.js, Express and TypeScript
-- 💻 Building AI-powered tools: Discord bots, chatbots and Python ML pipelines
-- 🛠️ Crafting interactive UIs and custom web systems
+## Tech stack
 
-## 🛠 Tech stack
-**Languages**
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-21262d?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Frameworks, databases & tools**
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-21262d?style=flat-square&logo=express&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-21262d?style=flat-square&logo=trpc&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-21262d?style=flat-square&logo=flask&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=20232A)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-444444?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-444444?style=flat&logo=flask&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+**Data** &nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-21262d?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-21262d?style=flat-square&logo=sqlite&logoColor=white)
 
-## 🚀 Featured builds
+**AI** &nbsp;
+![Gemini](https://img.shields.io/badge/Gemini-21262d?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-21262d?style=flat-square&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-21262d?style=flat-square&logoColor=white)
+
+## Featured builds
+
 | Project | What it does | Stack |
 |---|---|---|
-| [**Rukia**](https://github.com/NikhilForge/rukiadiscordbot) | AI Discord assistant with web search, image input, persistent memory and automatic fallback across AI providers | Python, Supabase, Groq, Gemini |
 | [**Waterway**](https://github.com/NikhilForge/waterway) | Full-stack logistics planner for smart waterway routing and fleet coordination, with an AI agent and chatbot | React, TypeScript, Express, tRPC, Gemini |
+| [**Rukia**](https://github.com/NikhilForge/rukiadiscordbot) | AI Discord assistant with web search, image input, persistent memory and automatic fallback across AI providers | Python, Supabase, Groq, Gemini |
 | [**Just Box**](https://github.com/NikhilForge/boxing-game) | Motion-controlled boxing rhythm game that tracks your punches through the camera, playable in the browser | JavaScript, MediaPipe, Web Audio API |
 | [**CampusFind**](https://github.com/NikhilForge/CampusFind) | Campus lost and found platform with item reports, auto-matching, in-app messaging and notifications | Flask, SQLite, JavaScript |
 | [**Campus Lib**](https://github.com/NikhilForge/campus-lib) | Library management system with student and admin portals, borrowing workflow and recommendations | HTML, CSS, JavaScript |
 
-## 📫 Let's connect
-Open to internships, hackathons and collaborations on web, backend and AI projects.
-[LinkedIn](https://www.linkedin.com/in/nikhil-sajan-350795336/) · nikhilsajann@gmail.com
+## Open source contributions
+
+<!-- OSS:START -->
+_Merged contributions will appear here automatically._
+<!-- OSS:END -->
+
+[View all merged pull requests →](https://github.com/search?q=author%3ANikhilForge+type%3Apr+is%3Amerged+-user%3ANikhilForge&type=pullrequests)
