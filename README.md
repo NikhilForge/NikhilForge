@@ -1,19 +1,18 @@
-<table>
-<tr>
-<td width="30%" align="center">
-  <img src="character_spin.gif" width="280" alt="Spinning character with a sword"/>
-</td>
-<td>
+<p align="center">
+  <img src="character_spin.gif" width="440" alt="Spinning character with a sword"/>
+</p>
 
-# Hey, I'm Nikhil 👋
-**Full-Stack Developer & B.Tech IT student** building end-to-end web applications, backend systems and applied ML tools.
+<h1 align="center">Hey, I'm Nikhil 👋</h1>
 
-<a href="https://www.linkedin.com/in/nikhil-sajan-350795336/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nikhilsajann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <b>Full-Stack Developer &amp; B.Tech IT student</b> building end-to-end web applications,<br/>
+  backend systems and applied ML tools.
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhil-sajan-350795336/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nikhilsajann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ## ⚡ Active processes
 - 🌱 Architecting RESTful backends and full-stack apps with Node.js, Express and TypeScript
