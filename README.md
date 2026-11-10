@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="30%" align="center">
-  <img src="assets/globe-3d.svg" width="220" alt="Rotating wireframe globe"/>
+  <img src="assets/character_spin.gif" width="280" alt="Spinning character with a sword"/>
 </td>
 <td>
 
