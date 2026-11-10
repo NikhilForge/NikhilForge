@@ -1,6 +1,6 @@
-<img align="left" src="character_spin.gif" width="320" alt="Spinning character with a sword"/>
+<img align="left" src="character_spin.gif" width="280" alt="Spinning character with a sword"/>
 
-<img src="intro.svg" width="520" alt="Hey, I'm Nikhil - Full-Stack Developer and B.Tech IT student"/>
+<img src="intro.svg" width="540" alt="Hey, I'm Nikhil - Full-Stack Developer and B.Tech IT student"/>
 
 <a href="https://www.linkedin.com/in/nikhil-sajan-350795336/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nikhilsajann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
